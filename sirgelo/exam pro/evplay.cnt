@@ -1,0 +1,22 @@
+; Help Magician Pro CNT File v4.50.000 
+:Base evplay.hlp
+:Title ExamView Player
+:Index ExamView Player = evplay.hlp
+:Link evplay.hlp
+1 Getting Started =Getting_Started@evplay.hlp
+  ;*HMKey 
+1 Using the ExamView Player
+2 Take a Test =Take_a_Test@evplay.hlp
+  ;*HMKey 
+2 Navigate the Software =Navigate@evplay.hlp
+  ;*HMKey 
+2 Go to a Question =Go_to_Question@evplay.hlp
+  ;*HMKey 
+2 Check Your Work =Check_Your_Work@evplay.hlp
+  ;*HMKey 
+2 Play a Multimedia Link =Play_a_Multimedia_Link@evplay.hlp
+  ;*HMKey 
+2 Troubleshooting Tips =Troubleshooting_Tips@evplay.hlp
+  ;*HMKey 
+2 Exit the Program =Exit_Program@evplay.hlp
+  ;*HMKey 

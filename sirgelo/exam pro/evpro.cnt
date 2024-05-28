@@ -1,0 +1,293 @@
+; Help Magician Pro CNT File v4.50.000 
+:Base evpro.hlp
+:Title ExamView Pro 3.0
+:Index Topics Found =evpro.hlp
+:Link evpro.hlp
+1 Introduction =Introduction@evpro.hlp
+  ;*HMKey 
+1 Getting Started
+2 Startup Menu Options =Startup_Menu@evpro.hlp
+  ;*HMKey 
+2 Navigating the Software
+3 Enter/Type Text =Entering_Typing_Text@evpro.hlp
+  ;*HMKey 
+3 Editing Commands and Shortcuts =Editing_Commands_and_Shortcuts@evpro.hlp
+  ;*HMKey 
+3 Navigate within a Question, Answer, or Narrative =Moving_Around_a_Question_Answer_Narrative@evpro.hlp
+  ;*HMKey 
+3 Select Text and Pictures =Selecting_Text_or_Pictures@evpro.hlp
+  ;*HMKey 
+3 Select Items in a Table =Selecting_Items_in_a_Table@evpro.hlp
+  ;*HMKey 
+3 Navigate within a Test or Question Bank =Moving_Around_a_Test_or_QB@evpro.hlp
+  ;*HMKey 
+3 Switch between the Test Builder and Question Bank Editor =Switching_between_Test_Builder_and_QB_Editor@evpro.hlp
+  ;*HMKey 
+1 Using the ExamView Test Builder
+2 Test Builder Basics =Test_Builder_Basics@evpro.hlp
+  ;*HMKey 
+2 Build a Test with the QuickTest Wizard =QuickTest_Wizard@evpro.hlp
+  ;*HMKey 
+2 Create a New Test and Select Questions =Creating_a_New_Test@evpro.hlp
+  ;*HMKey 
+2 Open a Test =Opening_a_Test@evpro.hlp
+  ;*HMKey 
+2 Select a Question Bank =Selecting_a_Bank@evpro.hlp
+  ;*HMKey 
+2 Clear Selections =Clear_Selections@evpro.hlp
+  ;*HMKey 
+2 Edit/Create Questions on a Test =Editing_Creating_Test_Questions@evpro.hlp
+  ;*HMKey 
+2 Spell Check a Test =Spell_Checking_a_Test@evpro.hlp
+  ;*HMKey 
+2 Reorder Questions =Reorder_Test_Questions@evpro.hlp
+  ;*HMKey 
+2 Scramble Questions =Scramble_Questions@evpro.hlp
+  ;*HMKey 
+2 Print a Test =Printing_a_Test@evpro.hlp
+  ;*HMKey 
+2 Save a Test =Save_Your_Work@evpro.hlp
+  ;*HMKey 
+2 Assign a Password =Enter_a_Password@evpro.hlp
+  ;*HMKey 
+2 Export a Test =Export_Test_RTF@evpro.hlp
+  ;*HMKey 
+2 Question Selection Methods
+3 Select Questions Randomly =Select_Questions_Randomly@evpro.hlp
+  ;*HMKey 
+3 Select Questions from a List =Select_Questions_from_a_List@evpro.hlp
+  ;*HMKey 
+3 Select Questions while Viewing =Select_Questions_while_Viewing@evpro.hlp
+  ;*HMKey 
+3 Select Questions by Criteria =Select_Questions_by_Criteria@evpro.hlp
+  ;*HMKey 
+3 Select All Questions =Select_All_Questions@evpro.hlp
+  ;*HMKey 
+2 Customizing the Appearance of a Test
+3 Test Layout/Style Options =Test_Layout@evpro.hlp
+  ;*HMKey 
+3 Headers/Footers =Headers_Footers@evpro.hlp
+  ;*HMKey 
+3 Instructions =Instructions@evpro.hlp
+  ;*HMKey 
+1 Publishing an Internet Test or Study Guide
+2 Internet Testing =Publish_Internet_Test_or_Study_Guide@evpro.hlp
+  ;*HMKey 
+2 ExamView Test-Hosting Service
+3 Register for the Internet Test-Hosting Service =Register_for_the_Internet_Test_Hosting_Service@evpro.hlp
+  ;*HMKey 
+3 Publish a Test/Study Guide to the ExamView Web Site =Publish_a_Test_Study_Guide_to_the_ExamView_Web_Site@evpro.hlp
+  ;*HMKey 
+3 Take a Test (www.evtestcenter.com) =Take_a_Test_evtestcenter@evpro.hlp
+  ;*HMKey 
+3 Take a Study Guide (www.evtestcenter.com) =Take_a_Study_Guide_evtestcenter@evpro.hlp
+  ;*HMKey 
+3 Manage Tests and View Results Online =Manage_Tests_and_View_Results_Online@evpro.hlp
+  ;*HMKey 
+2 Publishing Tests to Your Own Web Site
+3 Save an Internet Test/Study Guide to Your Hard Drive =Save_an_Internet_Test_Study_Guide_to_Your_Hard_Drive@evpro.hlp
+  ;*HMKey 
+3 Post a Test to your own Internet/Intranet Server =Post_to_your_web_site@evpro.hlp
+  ;*HMKey 
+3 Take a Test using the Internet =Taking_an_Internet_Test@evpro.hlp
+  ;*HMKey 
+3 Take a Study Guide =Taking_an_Internet_Study_Guide@evpro.hlp
+  ;*HMKey 
+3 Receive Student Results via Email =Receiving_Student_Results_via_Email@evpro.hlp
+  ;*HMKey 
+1 Creating an Online (LAN-based) Test
+2 Online Test Wizard =Online_Test_Wizard@evpro.hlp
+  ;*HMKey 
+2 View Test Results =View_Test_Results@evpro.hlp
+  ;*HMKey 
+2 Import Test Results =Import_Test_Results@evpro.hlp
+  ;*HMKey 
+2 Export Test Results =Export_Test_Results@evpro.hlp
+  ;*HMKey 
+2 Clear Test Results =Clear_Test_Results@evpro.hlp
+  ;*HMKey 
+2 Class Roster =Class_Roster@evpro.hlp
+  ;*HMKey 
+2 Online Test Preferences =Online_Test_Preferences@evpro.hlp
+  ;*HMKey 
+2 Cancel Online Test =Cancel_Online_Test@evpro.hlp
+  ;*HMKey 
+2 ExamView Player =ExamView_Player@evpro.hlp
+  ;*HMKey 
+2 Student Feedback/Multimedia =Student_Feedback_Multimedia@evpro.hlp
+  ;*HMKey 
+2 Modify an Online Test =Modifying_an_Online_Test@evpro.hlp
+  ;*HMKey 
+1 Working with the Question Bank Editor
+2 Question Bank Editor Basics =Question_Bank_Editor_Basics@evpro.hlp
+  ;*HMKey 
+2 Create a New Question Bank =Creating_a_New_Question_Bank@evpro.hlp
+  ;*HMKey 
+2 Open a Question Bank =Open_a_Question_Bank@evpro.hlp
+  ;*HMKey 
+2 Create/Edit Questions in a Question Bank =Create_Edit_Questions_QB@evpro.hlp
+  ;*HMKey 
+2 Customize the Layout of a Question Bank =Customize_QB_Layout@evpro.hlp
+  ;*HMKey 
+2 Check Spelling in a Question Bank =Spell_Checking_a_Question_Bank@evpro.hlp
+  ;*HMKey 
+2 Reorder Questions =Reorder_QB_Questions@evpro.hlp
+  ;*HMKey 
+2 Print a Question Bank =Print_a_Question_Bank@evpro.hlp
+  ;*HMKey 
+2 Save a Question Bank =Save_a_Question_Bank@evpro.hlp
+  ;*HMKey 
+2 Assign a Password =QB_Password@evpro.hlp
+  ;*HMKey 
+2 Export Questions =Exporting_Questions@evpro.hlp
+  ;*HMKey 
+2 Import Questions from other Sources =Importing_Questions_into_ExamView@evpro.hlp
+  ;*HMKey 
+1 Learning about ExamView's Question Types
+2 True/False =True_False@evpro.hlp
+  ;*HMKey 
+2 Modified True/False =Modified_True_False@evpro.hlp
+  ;*HMKey 
+2 Multiple Choice =Multiple_Choice@evpro.hlp
+  ;*HMKey 
+2 Yes/No =Yes_No@evpro.hlp
+  ;*HMKey 
+2 Numeric Response =Numeric_Response@evpro.hlp
+  ;*HMKey 
+2 Matching =Matching@evpro.hlp
+  ;*HMKey 
+2 Completion =Completion@evpro.hlp
+  ;*HMKey 
+2 Short Answer,  Problem, Essay, Case, and Other =Short_Answer_Problem_Essay_Case_Other@evpro.hlp
+  ;*HMKey 
+1 Using the Word Processor
+2 Undo, Cut, Copy, Paste... =Undo_Cut_Copy_Paste@evpro.hlp
+  ;*HMKey 
+2 Find/Replace in a Question =Find_Replace_in_a_Question@evpro.hlp
+  ;*HMKey 
+2 Word Processor Ruler, Toolbar, and Codes =Word_Processor_Ruler_Toolbar_Codes@evpro.hlp
+  ;*HMKey 
+2 Insert a Picture =Inserting_a_Picture@evpro.hlp
+  ;*HMKey 
+2 Insert a Symbol =Inserting_a_Symbol@evpro.hlp
+  ;*HMKey 
+2 Insert an Equation =Inserting_an_Equation@evpro.hlp
+  ;*HMKey 
+2 Insert a Hyperlink =Inserting_a_Hyperlink@evpro.hlp
+  ;*HMKey 
+2 Formatting Commands
+3 Font =Font@evpro.hlp
+  ;*HMKey 
+3 Paragraph =Paragraph@evpro.hlp
+  ;*HMKey 
+3 Tabs =Tabs@evpro.hlp
+  ;*HMKey 
+3 Borders and Shading =Borders_Shading@evpro.hlp
+  ;*HMKey 
+3 Picture =Picture@evpro.hlp
+  ;*HMKey 
+3 Hyperlink =hyperlink@evpro.hlp
+  ;*HMKey 
+3 Equation =Equation@evpro.hlp
+  ;*HMKey 
+3 Copy/Apply Ruler =Copy_Apply_Ruler@evpro.hlp
+  ;*HMKey 
+3 Copy/Apply Style =Copy_Apply_Style@evpro.hlp
+  ;*HMKey 
+2 Tables
+3 Insert Table =Insert_Table@evpro.hlp
+  ;*HMKey 
+3 Insert Rows/Columns =Insert_Rows_Columns@evpro.hlp
+  ;*HMKey 
+3 Delete Cells/Rows/Columns =Delete_Cells_Rows_Columns@evpro.hlp
+  ;*HMKey 
+3 Merge Cells =Join_Cells@evpro.hlp
+  ;*HMKey 
+3 Split Cells =Split_Cells@evpro.hlp
+  ;*HMKey 
+3 Table Format =Table_Format@evpro.hlp
+  ;*HMKey 
+3 Borders and Shading (Tables) =Borders_Shading_Tables@evpro.hlp
+  ;*HMKey 
+3 Cell Height and Width =Cell_Width@evpro.hlp
+  ;*HMKey 
+3 Align Columns =Align_Coloumns@evpro.hlp
+  ;*HMKey 
+3 Split Table =Split_Table@evpro.hlp
+  ;*HMKey 
+3 Convert Text to Table =Convert_Tables@evpro.hlp
+  ;*HMKey 
+3 Table Properties =Table_Properties@evpro.hlp
+  ;*HMKey 
+1 Using the Equation Editor
+2 Create an Equation =Creating_Editing_an_Equation@evpro.hlp
+  ;*HMKey 
+2 Keyboard Shortcuts =Keyboard_Shortcuts@evpro.hlp
+  ;*HMKey 
+2 Navigate an Equation =Navigating_an_Equation@evpro.hlp
+  ;*HMKey 
+2 Change the Equation Editor Preferences =Equation_Editor_Preferences@evpro.hlp
+  ;*HMKey 
+2 Inserting Symbols in a Equation
+3 Operator Symbols =Operator_Symbols@evpro.hlp
+  ;*HMKey 
+3 Relational Symbols =Relational_Symbols@evpro.hlp
+  ;*HMKey 
+3 Lowercase Greek Characters =Lowercase_Greek_Characters@evpro.hlp
+  ;*HMKey 
+3 Uppercase Greek Characters =Uppercase_Greek_Characters@evpro.hlp
+  ;*HMKey 
+3 Accent Characters =Accent_Characters@evpro.hlp
+  ;*HMKey 
+3 Alignment or Space Characters =Alignment_Space_Characters@evpro.hlp
+  ;*HMKey 
+3 Logical Symbols =Logical_Symbols@evpro.hlp
+  ;*HMKey 
+3 Set Theory Symbols =Set_Theory_Symbols@evpro.hlp
+  ;*HMKey 
+3 Miscellaneous Symbols =Miscellaneous_Symbols@evpro.hlp
+  ;*HMKey 
+3 Arrow Symbols =Arrow_Symbols@evpro.hlp
+  ;*HMKey 
+2 Inserting Templates in an Equation
+3 Subscript and Superscript Templates =Subscript_Superscript_Templates@evpro.hlp
+  ;*HMKey 
+3 Delimiter Templates =Delimeter_Templates@evpro.hlp
+  ;*HMKey 
+3 Fraction and Radical Templates =Fraction_Radical_Templates@evpro.hlp
+  ;*HMKey 
+3 Integral Templates =Integral_Templates@evpro.hlp
+  ;*HMKey 
+3 Summation Templates =Summation_Templates@evpro.hlp
+  ;*HMKey 
+3 Product and Set Theory Templates =Product_and_Set_Theory_Templates@evpro.hlp
+  ;*HMKey 
+3 Matrix Templates =Matrix_Templates@evpro.hlp
+  ;*HMKey 
+3 Underbar and Overbar Templates =Underbar_Overbar_Templates@evpro.hlp
+  ;*HMKey 
+3 Arrow Templates =Arrow_Templates@evpro.hlp
+  ;*HMKey 
+2 Equation Editor Menu Commands
+3 Zoom Menu =Zoom_Menu@evpro.hlp
+  ;*HMKey 
+3 Alignment Menu =Alignment_Menu@evpro.hlp
+  ;*HMKey 
+3 Style Menu =Style_Menu@evpro.hlp
+  ;*HMKey 
+3 Size Menu =Size_Menu@evpro.hlp
+  ;*HMKey 
+2 Equation Editor Preferences
+3 Spacing Preferences =@evpro.hlp
+  ;*HMKey 
+3 Style Preferences =@evpro.hlp
+  ;*HMKey 
+3 Size Preferences =@evpro.hlp
+  ;*HMKey 
+1 Related Topics
+2 Preferences =Preferences@evpro.hlp
+  ;*HMKey 
+2 Troubleshooting Tips =Troubleshooting_Tips@evpro.hlp
+  ;*HMKey 
+2 Installing Multiple Question Banks =Installing_Multiple_Question_Banks@evpro.hlp
+  ;*HMKey 
